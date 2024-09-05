@@ -1,3 +1,10 @@
+# 1.0.0 (2024-09-05)
+
+
+### Features
+
+* **codebase:** a simpler stater project ([4ee963b](https://github.com/ookino/next-boiler/commit/4ee963bc6d058bf3b5b5f2305234adac7cd7fd97))
+
 ## [3.55.3](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.55.2...v3.55.3) (2024-08-21)
 
 
